@@ -24,10 +24,18 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 ---
 
 ## 📱 Conecte-se comigo
-[![LinkedIn](https://www.linkedin.com/in/renato-canedo-ribeiro-00499616b)
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatocanedoribeiro@outlook.com)
-[![Instagram](https://www.instagram.com/renato_canedo_)
+<p align="center">
+  <a href="https://www.linkedin.com/in/renato-canedo-ribeiro-00499616b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="mailto:renatocanedoribeiro@outlook.com">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/renato_canedo_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" />
+  </a>
 
+</p>
 ---
 
 # 💻 Skills
