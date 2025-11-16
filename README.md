@@ -1,4 +1,3 @@
-<!-- ===================== BANNER GIGANTE ===================== -->
 <p align="center">
   <img src="https://applescoop.org/image/wallpapers/ipad/dragon-ball-z-anime-tv-show-08-12-2024-1733706982-hd-wallpaper.jpg" style="width: 100%;" />
 </p>
@@ -38,8 +37,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
-  <!-- Apache corrigido -->
   <img alt="Apache" height="45" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg">
 
   <img alt="Assembly" height="45" src="https://www.svgrepo.com/show/377750/gnome-mime-text-x-asm.svg">
@@ -93,30 +90,42 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 
 ---
 
-<!-- ===================== GIF DE SEPARAÇÃO ===================== -->
 <p align="center">
   <img src="https://media1.tenor.com/m/yE8T5ZZ2jPsAAAAd/bleach-banner-bleach.gif" width="100%" />
 </p>
 
 # 🐍 Snake e PAC-MAN
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-  <img src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
-</picture>
-
----
-
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Renato-Canedo&icon=5&color=0)](https://visitcount.itsvg.in)
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+
+  <br><br>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg" width="80%">
+  </picture>
+
 </div>
 
 ---
 
-<p align="center">
-  Feito com 💻☕ por <b>Renato Canedo</b>
+<div align="center" style="margin-top: 20px;">
+
+  <a href="https://visitcount.itsvg.in">
+    <img 
+      src="https://visitcount.itsvg.in/api?id=Renato-Canedo&label=Visitantes&color=0&icon=5&pretty=true" 
+      alt="Contador de visitas"
+    />
+  </a>
+
+</div>
+
+---
+
+<p align="center" style="font-size: 14px; opacity: 0.8;">
+  Feito por <b>Renato Canedo</b>
 </p>
