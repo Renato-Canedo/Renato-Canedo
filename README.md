@@ -62,7 +62,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 ---
 
 # 🚀 Projetos em Destaque
-<p align="center">
+<p align="">
   <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
     <img src="https://img.shields.io/badge/CanedoBooks-%23000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
