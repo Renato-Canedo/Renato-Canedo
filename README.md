@@ -113,19 +113,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 
 ---
 
-<div align="center" style="margin-top: 20px;">
-
-  <a href="https://visitcount.itsvg.in">
-    <img 
-      src="https://visitcount.itsvg.in/api?id=Renato-Canedo&label=Visitantes&color=0&icon=5&pretty=true" 
-      alt="Contador de visitas"
-    />
-  </a>
-
-</div>
-
----
-
 <p align="center" style="font-size: 14px; opacity: 0.8;">
   Feito por <b>Renato Canedo</b>
 </p>
+
