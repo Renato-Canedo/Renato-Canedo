@@ -24,8 +24,9 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 ---
 
 ## 📱 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/)
-[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatocanedo.ti@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/renato-canedo-ribeiro-00499616b)
+[![Gmail](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:renatocanedoribeiro@outlook.com)
+[![Instagram](https://www.instagram.com/renato_canedo_)
 
 ---
 
@@ -63,9 +64,9 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 
 # 🚀 Projetos em Destaque
 <p align="">
-  <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/CanedoBooks-%23000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+<a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
+    <img src="https://img.shields.io/badge/Site%20de%20Livraria-%23000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <a href="#">
     <img src="https://img.shields.io/badge/Hardening%20Apache-%23000?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
