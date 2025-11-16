@@ -2,6 +2,8 @@
   <img src="https://applescoop.org/image/wallpapers/ipad/dragon-ball-z-anime-tv-show-08-12-2024-1733706982-hd-wallpaper.jpg" style="width: 100%;" />
 </p>
 
+---
+
 <h1 align="center">💫 Sobre mim</h1>
 
 <p align="center">
@@ -21,8 +23,6 @@ Hoje estudo **Segurança da Informação**, com foco em:
 
 Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 
----
-
 ## 📱 Conecte-se comigo
 <p align="center">
   <a href="https://www.linkedin.com/in/renato-canedo-ribeiro-00499616b" target="_blank">
@@ -36,7 +36,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   </a>
 
 </p>
----
 
 # 💻 Skills
 <div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;"><br>
@@ -47,11 +46,8 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img alt="Apache" height="45" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg">
-
   <img alt="Assembly" height="45" src="https://www.svgrepo.com/show/377750/gnome-mime-text-x-asm.svg">
 </div>
-
----
 
 # 🎓 Cursos e Certificações
 
@@ -68,8 +64,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 ### **Certificação:**
 - **Fortinet Certified Fundamentals in Cybersecurity (2026)**
 
----
-
 # 🚀 Projetos em Destaque
 <p align="">
 <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
@@ -83,7 +77,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   </a>
 </p>
 
----
 
 # 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
@@ -103,6 +96,8 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   <img src="https://media1.tenor.com/m/yE8T5ZZ2jPsAAAAd/bleach-banner-bleach.gif" width="100%" />
 </p>
 
+---
+
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
@@ -119,8 +114,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   </picture>
 
 </div>
-
----
 
 <p align="center" style="font-size: 14px; opacity: 0.8;">
   Feito por <b>Renato Canedo</b>
