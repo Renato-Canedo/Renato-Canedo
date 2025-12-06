@@ -83,6 +83,16 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=blue_navy&hide_border=false" />
 </div>
 
+<br>
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/yE8T5ZZ2jPsAAAAd/bleach-banner-bleach.gif" width="100%" />
+</p>
+
+---
+
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
@@ -103,4 +113,3 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 <p align="center" style="font-size: 14px; opacity: 0.8;">
   Feito por <b>Renato Canedo</b>
 </p>
-
