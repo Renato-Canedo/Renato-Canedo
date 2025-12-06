@@ -80,10 +80,8 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
 
 # 📊 GitHub Stats
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true" />
   <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=blue_navy&hide_border=false" />
 </div>
----
 
 # 🐍 Snake e PAC-MAN
 <div align="center">
