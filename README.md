@@ -77,21 +77,24 @@ Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
   </a>
 </p>
 
-
 # 📊 GitHub Stats
+
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img height="190" src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=blue_navy&hide_border=false" />
+
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" />
+
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=blue_navy" />
+
 </div>
 
 <br>
 
----
-
-<p align="center">
-  <img src="https://media1.tenor.com/m/yE8T5ZZ2jPsAAAAd/bleach-banner-bleach.gif" width="100%" />
-</p>
-
----
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
+</div>
 
 # 🐍 Snake e PAC-MAN
 <div align="center">
