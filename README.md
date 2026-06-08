@@ -13,8 +13,8 @@
 Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
 
 **Minha trajetória profissional:**
-
-- **ICI – Instituto das Cidades Inteligentes** – Atuação como Técnico de TI na prestação de serviços terceirizados de tecnologia da informação e suporte técnico para a administração pública municipal (PMC), listado oficialmente no Portal da Transparência.
+- **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)** – Atuação como Técnico de TI na prestação de serviços terceirizados de tecnologia da informação e suporte técnico para a administração pública municipal.
+  * [📄 Registro Oficial - Portal da Transparência (Fevereiro/2025)](https://mid-transparencia.curitiba.pr.gov.br/funcionarios/SMATI-TI-Terceirizados-Fevereiro_2025.pdf)
 - **Exército Brasileiro** – TI, manutenção e suporte técnico
 - **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
