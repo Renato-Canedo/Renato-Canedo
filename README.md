@@ -10,18 +10,25 @@
   <i>"A segurança não é um produto. É um processo."</i>
 </p>
 
-Sou **Renato Canedo Ribeiro**, tenho **24 anos**, e estou construindo minha trajetória na área de **Cibersegurança**. Trabalho atualmente como **Técnico de TI no ICI – Instituto das Cidades Inteligentes**, e já atuei:
-- No **Exército Brasileiro** (TI – manutenção e suporte)
-- Na **Positivo Tecnologia** (Montagem e manutenção)
+Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de **Cibersegurança.** Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes e na manutenção de serviços de TI.
 
-Hoje estudo **Segurança da Informação**, com foco em:
-- Linux  
-- Redes  
-- Hardening  
-- Apache  
-- Defesa e Monitoramento (SOC)
+- **ICI – Instituto das Cidades Inteligentes** – Suporte Técnico e Infraestrutura de TI
+- **Exército Brasileiro** – TI, manutenção e suporte técnico
+- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
-Meu objetivo é me tornar **Especialista em Cibersegurança antes dos 30 anos**.
+Atualmente curso **Segurança da Informação** e direciono meus estudos para:
+
+- Linux
+- Redes de Computadores
+- Hardening de Sistemas
+- Apache Web Server
+- SOC (Security Operations Center)
+- SIEM
+- Blue Team
+- Monitoramento de Segurança
+- Resposta a Incidentes
+
+Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças e fortalecimento da segurança da informação.
 
 ## 📱 Conecte-se comigo
 <p align="center">
