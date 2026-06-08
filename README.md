@@ -18,7 +18,7 @@ Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na
 - **Exército Brasileiro** – TI, manutenção e suporte técnico
 - **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
-Atualmente curso Segurança da Informação e busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
+Atualmente curso **Segurança da Informação** e **Gestão de TI** busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
 
 Direciono meus estudos para:
 
