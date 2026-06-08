@@ -36,7 +36,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 ## 📱 Conecte-se comigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/renato-canedo-ribeiro-00499616b" target="_blank">
+  <a href="https://www.linkedin.com/in/renatocanedoribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="mailto:renatocanedoribeiro@outlook.com">
