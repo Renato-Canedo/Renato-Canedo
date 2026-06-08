@@ -72,7 +72,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 | DPO & LGPD na Prática | ✔ |
 
 ### **Certificação:**
-- **Fortinet Certified Fundamentals in Cybersecurity (2026)**
+- **Fortinet Certified Associate in Cybersecurity (NSE 3) (valid: 2028)**
 
 # 🚀 Projetos em Destaque
 <p align="">
