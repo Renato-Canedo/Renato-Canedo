@@ -10,13 +10,15 @@
   <i>"A segurança não é um produto. É um processo."</i>
 </p>
 
-Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de **Cibersegurança.** Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes e na manutenção de serviços de TI.
+Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
 
 - **ICI – Instituto das Cidades Inteligentes** – Suporte Técnico e Infraestrutura de TI
 - **Exército Brasileiro** – TI, manutenção e suporte técnico
 - **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
-Atualmente curso **Segurança da Informação** e direciono meus estudos para:
+Atualmente curso Segurança da Informação e busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
+
+Direciono meus estudos para:
 
 - Linux
 - Redes de Computadores
@@ -28,7 +30,7 @@ Atualmente curso **Segurança da Informação** e direciono meus estudos para:
 - Monitoramento de Segurança
 - Resposta a Incidentes
 
-Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças e fortalecimento da segurança da informação.
+Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, resposta a incidentes e fortalecimento da segurança da informação.
 
 ## 📱 Conecte-se comigo
 <p align="center">
