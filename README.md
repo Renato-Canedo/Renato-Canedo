@@ -12,7 +12,7 @@
 
 Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
 
-**Minha trajetória profissional**
+**Minha trajetória profissional:**
 
 - **ICI – Instituto das Cidades Inteligentes** – Suporte Técnico e Infraestrutura de TI
 - **Exército Brasileiro** – TI, manutenção e suporte técnico
