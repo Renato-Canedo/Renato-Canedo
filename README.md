@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.hdqwalls.com/wallpapers/anime-ninja-4k-lo.jpg" style="width: 100%;" />
+  <img src="https://applescoop.org/image/wallpapers/ipad/dragon-ball-z-anime-tv-show-08-12-2024-1733706982-hd-wallpaper.jpg" style="width: 100%;" />
 </p>
 
 ---
