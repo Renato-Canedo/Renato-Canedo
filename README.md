@@ -93,6 +93,16 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 ![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
+</div>
+
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
