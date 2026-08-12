@@ -90,6 +90,15 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 </p>
 
 # 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=blue_navy&include_all_commits=true&count_private=true" />
+
+  <img height="190"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=blue_navy" />
+       
 ![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
