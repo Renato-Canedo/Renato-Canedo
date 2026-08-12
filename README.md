@@ -1,7 +1,5 @@
 <div align="center">
 </div><br>
-![Gif de Goku](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/2451a8f99ec3a84f3bda4d09cc0b7182/raw/goku.gif)
-
 ![Gif de Vegeta](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/vegeta.gif)
 ---
 
