@@ -1,9 +1,8 @@
 <div align="center">
 </div><br>
-![Goku](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/35e0b3a5c4f9a3b0f7e0d9e5e9f0a8b0/raw/goku.gif)
-![Gif de introdução](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+![Gif de Goku](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/2451a8f99ec3a84f3bda4d09cc0b7182/raw/goku.gif)
 
+![Gif de Vegeta](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/vegeta.gif)
 ---
 
 <h1 align="center">💫 Sobre mim</h1>
