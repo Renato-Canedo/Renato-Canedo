@@ -22,16 +22,18 @@
   <i>"A segurança não é um produto. É um processo."</i>
 </p>
 
-Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
+Sou Renato Canedo Ribeiro, **Técnico de Suporte Monitoramento Jr. na Vivo**, e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional em ambientes corporativos, com atuação na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
 
 **Minha trajetória profissional:**
-- **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)** – Atuação como Técnico de TI na prestação de serviços de tecnologia da informação e suporte técnico para a administração pública municipal.
-- **Exército Brasileiro** – TI, manutenção e suporte técnico
-- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
-Atualmente curso **Segurança da Informação** e **Gestão de TI** busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
+- **Vivo – Telefônica Brasil** – Técnico de Suporte Monitoramento Jr., atuando no monitoramento e sustentação de ambientes tecnológicos.
+- **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)** – Atuação como Técnico de TI, prestando serviços de tecnologia da informação e suporte técnico para a administração pública municipal.
+- **Exército Brasileiro** – Atuação na área de TI, manutenção e suporte técnico.
+- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos.
 
-Direciono meus estudos para:
+Atualmente curso **Segurança da Informação** e **Gestão de TI**, buscando aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI. Meu foco está na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
+
+**Direciono meus estudos para:**
 
 - Linux
 - Redes de Computadores
@@ -43,7 +45,7 @@ Direciono meus estudos para:
 - Monitoramento de Segurança
 - Resposta a Incidentes
 
-Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, resposta a incidentes e fortalecimento da segurança da informação.
+Meu objetivo é construir uma carreira sólida e me tornar **Especialista em Cibersegurança**, contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, identificação e resposta a incidentes e fortalecimento da segurança da informação.
 
 ## 📱 Conecte-se comigo
 <p align="center">
