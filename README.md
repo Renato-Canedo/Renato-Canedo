@@ -103,7 +103,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
   </a>
 
 </p>
-
 ---
 
 # 📊 Atividade e Estatísticas no GitHub
@@ -122,6 +121,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=true&langs_count=6" width="45%" alt="Linguagens Mais Usadas" />
 
 </div>
+
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
