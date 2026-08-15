@@ -87,23 +87,32 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 - **Fortinet Certified Associate in Cybersecurity (NSE 3) (valid: 2028)**
 
 # 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
+
 <p align="center">
 
   <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Site%20de%20Livraria-000000?style=for-the-badge&logo=github&logoColor=white"
+      alt="Site de Livraria"
+    />
   </a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white">
+  <a href="https://github.com/Renato-Canedo">
+    <img
+      src="https://img.shields.io/badge/Hardening%20Apache-000000?style=for-the-badge&logo=apache&logoColor=white"
+      alt="Hardening Apache"
+    />
   </a>
 
-  <a href="#">
-    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white">
+  <a href="https://github.com/Renato-Canedo">
+    <img
+      src="https://img.shields.io/badge/Estudos%20Cibersegurança-000000?style=for-the-badge&logo=linux&logoColor=white"
+      alt="Estudos Cibersegurança"
+    />
   </a>
 
 </p>
-
----
 
 # 📈 Atividade no GitHub
 
