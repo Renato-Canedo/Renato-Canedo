@@ -87,31 +87,21 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 - **Fortinet Certified Associate in Cybersecurity (NSE 3) (valid: 2028)**
 
 # 🚀 Projetos em Destaque
-<p align="">
-<a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/Site%20de%20Livraria-%23000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Hardening%20Apache-%23000?style=for-the-badge&logo=linux&logoColor=white" />
+<p align="center">
+
+  <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
+    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
+
   <a href="#">
-    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-%23000?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white">
   </a>
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white">
+  </a>
+
 </p>
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
-
-</div>
 
 ---
 
