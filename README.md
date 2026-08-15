@@ -1,11 +1,11 @@
 <div align="center">
 
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
-
+  
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Gif de separação">
-
+  
   <br><br>
 
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
@@ -24,15 +24,14 @@
 
 Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
 
-### 💼 Minha trajetória profissional
-
+**Minha trajetória profissional:**
 - **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)** – Atuação como Técnico de TI na prestação de serviços de tecnologia da informação e suporte técnico para a administração pública municipal.
-- **Exército Brasileiro** – TI, manutenção e suporte técnico.
-- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos.
+- **Exército Brasileiro** – TI, manutenção e suporte técnico
+- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos
 
-Atualmente curso **Segurança da Informação** e **Gestão de TI**. Busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
+Atualmente curso **Segurança da Informação** e **Gestão de TI** busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
 
-### 🎯 Direciono meus estudos para
+Direciono meus estudos para:
 
 - Linux
 - Redes de Computadores
@@ -44,58 +43,38 @@ Atualmente curso **Segurança da Informação** e **Gestão de TI**. Busco aprim
 - Monitoramento de Segurança
 - Resposta a Incidentes
 
-Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, resposta a incidentes e fortalecimento da segurança da informação.
+Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, resposta a incidentes e fortalecimento da segurança da informação.
 
----
-
-# 📱 Conecte-se comigo
-
+## 📱 Conecte-se comigo
 <p align="center">
-
   <a href="https://www.linkedin.com/in/renatocanedoribeiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-
   <a href="mailto:renatocanedoribeiro@outlook.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red">
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-
   <a href="https://www.instagram.com/renato_canedo_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" />
   </a>
 
 </p>
 
----
-
 # 💻 Skills
-
-<div align="center">
-
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center; justify-content: center;"><br>
   <img alt="Linux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-
   <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
   <img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
   <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-  <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-
+  <img alt="JS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-
   <img alt="Apache" height="45" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg">
-
   <img alt="Assembly" height="45" src="https://www.svgrepo.com/show/377750/gnome-mime-text-x-asm.svg">
-
 </div>
-
----
 
 # 🎓 Cursos e Certificações
 
 | Cursos | Certificados |
-|--------|:------------:|
+|--------|--------------|
 | Técnico de Operador e Suporte em TI | ✔ |
 | Linux Ubuntu | ✔ |
 | Fundamentos de Cibersegurança | ✔ |
@@ -104,92 +83,53 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 | Privacidade com TOR | ✔ |
 | DPO & LGPD na Prática | ✔ |
 
-### 🏆 Certificação
-
-- **Fortinet Certified Associate in Cybersecurity (NSE 3)** — válida até 2028
-
----
+### **Certificação:**
+- **Fortinet Certified Associate in Cybersecurity (NSE 3) (valid: 2028)**
 
 # 🚀 Projetos em Destaque
-
-<p align="center">
-
-  <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-
+<p align="">
+<a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
+    <img src="https://img.shields.io/badge/Site%20de%20Livraria-%23000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white">
+    <img src="https://img.shields.io/badge/Hardening%20Apache-%23000?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
-
   <a href="#">
-    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white">
+    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-%23000?style=for-the-badge&logo=shield&logoColor=white" />
   </a>
-
 </p>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+# 📊 GitHub Stats     
+![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
----
-
-# 📈 Atividade no GitHub
+<br>
 
 <div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark">
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
 </div>
-
----
 
 # 🐍 Snake e PAC-MAN
-
 <div align="center">
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
-
-    <img
-      alt="Snake animation"
-      src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
-      width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
 
   <br><br>
 
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-
-    <img
-      alt="Pac-Man animation"
-      src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg"
-      width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg" width="80%">
   </picture>
 
 </div>
 
----
-
-<p align="center">
-  <i>Feito por <b>Renato Canedo</b></i>
+<p align="center" style="font-size: 14px; opacity: 0.8;">
+  Feito por <b>Renato Canedo</b>
 </p>
