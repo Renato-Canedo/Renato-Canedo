@@ -1,32 +1,20 @@
-<div align="center">
-
+<p align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000">
+</p>
 
-  <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Gif de separação">
+</p>
 
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    alt="Gif de separação"
-  >
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500" alt="Gif">
+</p>
 
-  <br><br>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Gif de separação">
+</p>
 
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
-    width="500"
-    alt="Gif"
-  >
-
-  <br><br>
-
-  <img
-    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
-    alt="Gif de separação"
-  >
-
-</div>
-
-<h1 align="center">💫 Sobre mim</h1>
+# 💫 Sobre mim
 
 <p align="center">
   <i>"A segurança não é um produto. É um processo."</i>
@@ -61,64 +49,51 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 # 📱 Conecte-se comigo
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/renatocanedoribeiro/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
-      alt="LinkedIn"
-    >
+  <a href="https://www.linkedin.com/in/renatocanedoribeiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
 
   <a href="mailto:renatocanedoribeiro@outlook.com">
-    <img
-      src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
 
-  <a href="https://www.instagram.com/renato_canedo_" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple"
-      alt="Instagram"
-    >
+  <a href="https://www.instagram.com/renato_canedo_">
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram">
   </a>
-
 </p>
 
 ---
 
 # 💻 Skills
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux">
 
-  <img alt="Linux" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python">
 
-  <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML">
 
-  <img alt="HTML" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS">
 
-  <img alt="CSS" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript">
 
-  <img alt="JavaScript" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL">
 
-  <img alt="MySQL" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg" width="45" height="45" alt="Apache">
 
-  <img alt="Apache" height="45" src="https://www.vectorlogo.zone/logos/apache/apache-icon.svg">
-
-  <img alt="Assembly" height="45" src="https://www.svgrepo.com/show/377750/gnome-mime-text-x-asm.svg">
-
-</div>
+  <img src="https://www.svgrepo.com/show/377750/gnome-mime-text-x-asm.svg" width="45" height="45" alt="Assembly">
+</p>
 
 ---
 
 # 🎓 Cursos e Certificações
 
-| Cursos | Certificados |
-|--------|:------------:|
+| Curso | Certificado |
+|---|:---:|
 | Técnico de Operador e Suporte em TI | ✔ |
 | Linux Ubuntu | ✔ |
 | Fundamentos de Cibersegurança | ✔ |
-| Defesa de Redes (cursando) | ✔ |
+| Defesa de Redes | ✔ |
 | Introdução à Cloud Computing | ✔ |
 | Privacidade com TOR | ✔ |
 | DPO & LGPD na Prática | ✔ |
@@ -132,102 +107,58 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 # 🚀 Projetos em Destaque
 
 <p align="center">
-
   <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img
-      src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white"
-      alt="Site de Livraria"
-    >
+    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white" alt="Site de Livraria">
   </a>
 
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white"
-      alt="Hardening Apache"
-    >
+  <a href="https://github.com/Renato-Canedo">
+    <img src="https://img.shields.io/badge/Projetos%20de%20Cibersegurança-000?style=for-the-badge&logo=linux&logoColor=white" alt="Projetos de Cibersegurança">
   </a>
 
-  <a href="#">
-    <img
-      src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white"
-      alt="Estudos Cibersegurança"
-    >
+  <a href="https://github.com/Renato-Canedo">
+    <img src="https://img.shields.io/badge/Estudos%20de%20Cibersegurança-000?style=for-the-badge&logo=github&logoColor=white" alt="Estudos de Cibersegurança">
   </a>
-
 </p>
 
 ---
 
 # 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats">
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false"
-    alt="GitHub Stats"
-  >
-
-  <br><br>
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false"
-    alt="Top Languages"
-  >
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false" alt="Top Languages">
+</p>
 
 ---
 
 # 📈 Atividade no GitHub
 
-<div align="center">
-
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark"
-    alt="GitHub Activity Graph"
-  >
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" alt="GitHub Activity Graph">
+</p>
 
 ---
 
 # 🐍 Snake e PAC-MAN
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
+    alt="Snake animation"
+    width="80%"
+  >
+</p>
 
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg"
-    >
-
-    <img
-      alt="Snake animation"
-      src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
-      width="80%"
-    >
-
-  </picture>
-
-  <br><br>
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg"
-    >
-
-    <img
-      alt="Pac-Man animation"
-      src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg"
-      width="80%"
-    >
-
-  </picture>
-
-</div>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg"
+    alt="Pac-Man animation"
+    width="80%"
+  >
+</p>
 
 ---
 
