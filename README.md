@@ -110,13 +110,17 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 # 📈 Atividade no GitHub
 
+# 📊 GitHub Stats
+
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false&cache_seconds=86400">
 
 </div>
-
----
 # 📊 GitHub Stats
 
 <div align="center">
