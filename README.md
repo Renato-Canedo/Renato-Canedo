@@ -87,33 +87,31 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 - **Fortinet Certified Associate in Cybersecurity (NSE 3) (valid: 2028)**
 
 # 🚀 Projetos em Destaque
+
 # 🚀 Projetos em Destaque
 
-<p align="center">
+<div align="center">
 
-  <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img
-      src="https://img.shields.io/badge/Site%20de%20Livraria-000000?style=for-the-badge&logo=github&logoColor=white"
-      alt="Site de Livraria"
-    />
-  </a>
-
+  <!-- Projeto 1: Hardening & Servidores -->
   <a href="https://github.com/Renato-Canedo">
-    <img
-      src="https://img.shields.io/badge/Hardening%20Apache-000000?style=for-the-badge&logo=apache&logoColor=white"
-      alt="Hardening Apache"
-    />
+    <img src="https://img.shields.io/badge/Hardening%20Apache%20%26%20Linux-000000?style=for-the-badge&logo=apache&logoColor=3FA037" alt="Hardening Apache & Linux" />
   </a>
 
+  <!-- Projeto 2: Defesa de Redes & Análise de Logs -->
   <a href="https://github.com/Renato-Canedo">
-    <img
-      src="https://img.shields.io/badge/Estudos%20Cibersegurança-000000?style=for-the-badge&logo=linux&logoColor=white"
-      alt="Estudos Cibersegurança"
-    />
+    <img src="https://img.shields.io/badge/Network%20Defense%20%26%20Log%20Analysis-000000?style=for-the-badge&logo=wireshark&logoColor=167DA4" alt="Network Defense & Log Analysis" />
   </a>
 
-</p>
+  <!-- Projeto 3: Repositório de Estudos Cibersegurança -->
+  <a href="https://github.com/Renato-Canedo">
+    <img src="https://img.shields.io/badge/Lab%20de%20Cibersegurança-000000?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Lab de Cibersegurança" />
+  </a>
 
+</div>
+
+<br>
+
+> 💡 **Foco Técnico:** Projetos voltados à aplicação prática de **Blue Team**, segurança defensiva em ambientes Linux, análise de pacotes/logs e endurecimento de infraestrutura web (Hardening).
 # 📈 Atividade no GitHub
 
 <div align="center">
