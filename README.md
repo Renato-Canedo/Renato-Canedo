@@ -159,33 +159,37 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 ---
 
 # 🐍 Snake e PAC-MAN
+
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
-      <img
-    src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false"
-    alt="GitHub Stats"
-  />
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg" width="80%">
-      <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false"
-    alt="Top Languages"
-  />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
 
-</div>
+    <img
+      alt="Snake animation"
+      src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
+      width="80%">
   </picture>
 
   <br><br>
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
-    <img alt="Pac-Man animation" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg" width="80%">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+
+    <img
+      alt="Pac-Man animation"
+      src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg"
+      width="80%">
   </picture>
 
 </div>
 
-<p align="center" style="font-size: 14px; opacity: 0.8;">
-  Feito por <b>Renato Canedo</b>
-</p>
+---
 
+<p align="center">
+  <i>Feito por <b>Renato Canedo</b></i>
+</p>
