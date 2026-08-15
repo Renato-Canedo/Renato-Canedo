@@ -88,8 +88,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 # 🚀 Projetos em Destaque
 
-# 🚀 Projetos em Destaque
-
 <div align="center">
 
   <!-- Projeto 1: Hardening & Servidores -->
@@ -112,6 +110,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 <br>
 
 > 💡 **Foco Técnico:** Projetos voltados à aplicação prática de **Blue Team**, segurança defensiva em ambientes Linux, análise de pacotes/logs e endurecimento de infraestrutura web (Hardening).
+
 # 📈 Atividade no GitHub
 
 <div align="center">
