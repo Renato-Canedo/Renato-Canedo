@@ -4,15 +4,25 @@
 
   <br><br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Gif de separação">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Gif de separação"
+  >
 
   <br><br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="500">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"
+    width="500"
+    alt="Gif"
+  >
 
   <br><br>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Gif de separação">
+  <img
+    src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"
+    alt="Gif de separação"
+  >
 
 </div>
 
@@ -53,15 +63,24 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 <p align="center">
 
   <a href="https://www.linkedin.com/in/renatocanedoribeiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"
+      alt="LinkedIn"
+    >
   </a>
 
   <a href="mailto:renatocanedoribeiro@outlook.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red">
+    <img
+      src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red"
+      alt="Email"
+    >
   </a>
 
   <a href="https://www.instagram.com/renato_canedo_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple">
+    <img
+      src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple"
+      alt="Instagram"
+    >
   </a>
 
 </p>
@@ -115,15 +134,24 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 <p align="center">
 
   <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white"
+      alt="Site de Livraria"
+    >
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white"
+      alt="Hardening Apache"
+    >
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white">
+    <img
+      src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white"
+      alt="Estudos Cibersegurança"
+    >
   </a>
 
 </p>
@@ -134,15 +162,17 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false"
+    alt="GitHub Stats"
+  >
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false"
+    alt="Top Languages"
+  >
 
 </div>
 
@@ -152,7 +182,10 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark"
+    alt="GitHub Activity Graph"
+  >
 
 </div>
 
@@ -163,27 +196,35 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 <div align="center">
 
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg"
+    >
 
     <img
       alt="Snake animation"
       src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
-      width="80%">
+      width="80%"
+    >
+
   </picture>
 
   <br><br>
 
   <picture>
+
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
+      srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg"
+    >
 
     <img
       alt="Pac-Man animation"
       src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg"
-      width="80%">
+      width="80%"
+    >
+
   </picture>
 
 </div>
