@@ -106,9 +106,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 ---
 
-> 💡 **Foco Técnico:** Projetos voltados à aplicação prática de **Blue Team**, segurança defensiva em ambientes Linux, análise de pacotes/logs e endurecimento de infraestrutura web (Hardening).
-
-
 # 📊 Atividade e Estatísticas no GitHub
 
 <div align="center">
