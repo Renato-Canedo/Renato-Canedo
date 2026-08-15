@@ -108,20 +108,21 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 > 💡 **Foco Técnico:** Projetos voltados à aplicação prática de **Blue Team**, segurança defensiva em ambientes Linux, análise de pacotes/logs e endurecimento de infraestrutura web (Hardening).
 
+
 # 📊 Atividade e Estatísticas no GitHub
 
 <div align="center">
 
-  <!-- Gráfico Principal de Atividade (Estável) -->
+  <!-- Gráfico de Atividade de Commits -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark&hide_border=true&area=true" width="95%" alt="Gráfico de Atividade" />
 
   <br><br>
 
-  <!-- Sequência / Streak Counter (Estável) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=dark&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  
-  <!-- Linguagens Mais Usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" width="45%" />
+  <!-- Cartão de Estatísticas Gerais (Fast Instance) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=true" width="48%" alt="Estatísticas do GitHub" />
+
+  <!-- Linguagens Mais Usadas (Fast Instance) -->
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=true&langs_count=6" width="45%" alt="Linguagens Mais Usadas" />
 
 </div>
 # 🐍 Snake e PAC-MAN
