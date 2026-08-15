@@ -22,34 +22,27 @@
   <i>"A segurança não é um produto. É um processo."</i>
 </p>
 
-<p>
 Sou Renato Canedo Ribeiro, tenho 24 anos e estou desenvolvendo minha carreira na área de Cibersegurança. Possuo experiência em suporte técnico, infraestrutura, sistemas e redes, construída ao longo da minha trajetória profissional, atuando em ambientes corporativos e no suporte a usuários, com foco na resolução de incidentes, manutenção de serviços de TI e suporte à operação tecnológica.
-</p>
 
 ### 💼 Minha trajetória profissional
 
-- **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)**  
-  Atuação como Técnico de TI na prestação de serviços de tecnologia da informação e suporte técnico para a administração pública municipal.
-
-- **Exército Brasileiro**  
-  Atuação na área de TI, manutenção e suporte técnico.
-
-- **Positivo Tecnologia**  
-  Atuação com montagem, manutenção e diagnóstico de equipamentos.
+- **ICI – Instituto das Cidades Inteligentes (Prefeitura de Curitiba / PMC)** – Atuação como Técnico de TI na prestação de serviços de tecnologia da informação e suporte técnico para a administração pública municipal.
+- **Exército Brasileiro** – TI, manutenção e suporte técnico.
+- **Positivo Tecnologia** – Montagem, manutenção e diagnóstico de equipamentos.
 
 Atualmente curso **Segurança da Informação** e **Gestão de TI**. Busco aprimorar continuamente meus conhecimentos em Cibersegurança e Gestão de TI, com foco na proteção de ambientes corporativos, monitoramento de segurança, análise de incidentes e fortalecimento da infraestrutura tecnológica.
 
-### 🎯 Áreas de interesse e estudo
+### 🎯 Direciono meus estudos para
 
-- 🐧 Linux
-- 🌐 Redes de Computadores
-- 🛡️ Hardening de Sistemas
-- 🌐 Apache Web Server
-- 🚨 SOC — Security Operations Center
-- 📊 SIEM
-- 🔵 Blue Team
-- 👁️ Monitoramento de Segurança
-- 🚑 Resposta a Incidentes
+- Linux
+- Redes de Computadores
+- Hardening de Sistemas
+- Apache Web Server
+- SOC (Security Operations Center)
+- SIEM
+- Blue Team
+- Monitoramento de Segurança
+- Resposta a Incidentes
 
 Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para a proteção de ambientes corporativos, monitoramento de ameaças, resposta a incidentes e fortalecimento da segurança da informação.
 
@@ -57,21 +50,21 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 # 📱 Conecte-se comigo
 
-<div align="center">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/renatocanedoribeiro/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+    <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
 
   <a href="mailto:renatocanedoribeiro@outlook.com">
-    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=red">
   </a>
 
   <a href="https://www.instagram.com/renato_canedo_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" />
+    <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple">
   </a>
 
-</div>
+</p>
 
 ---
 
@@ -106,7 +99,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 | Técnico de Operador e Suporte em TI | ✔ |
 | Linux Ubuntu | ✔ |
 | Fundamentos de Cibersegurança | ✔ |
-| Defesa de Redes | ✔ |
+| Defesa de Redes (cursando) | ✔ |
 | Introdução à Cloud Computing | ✔ |
 | Privacidade com TOR | ✔ |
 | DPO & LGPD na Prática | ✔ |
@@ -119,21 +112,21 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 # 🚀 Projetos em Destaque
 
-<div align="center">
+<p align="center">
 
   <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
-    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Site%20de%20Livraria-000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hardening%20Apache-000?style=for-the-badge&logo=linux&logoColor=white">
   </a>
 
   <a href="#">
-    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white" />
+    <img src="https://img.shields.io/badge/Estudos%20Cibersegurança-000?style=for-the-badge&logo=shield&logoColor=white">
   </a>
 
-</div>
+</p>
 
 ---
 
@@ -141,15 +134,15 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
   <br><br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=dark&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 </div>
 
@@ -159,7 +152,7 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark">
 
 </div>
 
@@ -172,11 +165,11 @@ Meu objetivo é me tornar **Especialista em Cibersegurança**, contribuindo para
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake-dark.svg">
+      srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
 
     <img
       alt="Snake animation"
-      src="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake.svg"
+      src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg"
       width="80%">
   </picture>
 
