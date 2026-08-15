@@ -2,7 +2,6 @@
 </div><br>
 
 ![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)v
----
 
 <h1 align="center">💫 Sobre mim</h1>
 
