@@ -56,7 +56,6 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
   <a href="https://www.instagram.com/renato_canedo_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=purple" />
   </a>
-
 </p>
 
 # 💻 Skills
@@ -88,9 +87,9 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 # 🚀 Projetos em Destaque
 <p align="">
-<a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
+  <a href="https://github.com/Renato-Canedo/Site-de-Livraria-Compras-de-Livros">
     <img src="https://img.shields.io/badge/Site%20de%20Livraria-%23000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Hardening%20Apache-%23000?style=for-the-badge&logo=linux&logoColor=white" />
   </a>
@@ -100,25 +99,24 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 </p>
 
 # 📊 GitHub Stats     
-![](https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br>
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
 </div>
 
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/maidenzinho/maidenzinho/output/github-contribution-grid-snake.svg" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
 
   <br><br>
