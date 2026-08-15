@@ -108,37 +108,17 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 > 💡 **Foco Técnico:** Projetos voltados à aplicação prática de **Blue Team**, segurança defensiva em ambientes Linux, análise de pacotes/logs e endurecimento de infraestrutura web (Hardening).
 
-# 📈 Atividade no GitHub
-
 # 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false&cache_seconds=86400)
 
-  <br><br>
+<br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false&cache_seconds=86400">
-
-</div>
-# 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
-
-  <br><br>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
-
-  <br><br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false&cache_seconds=86400)
 
 </div>
-
----
-
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
