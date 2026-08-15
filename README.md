@@ -1,6 +1,7 @@
 <div align="center">
 </div><br>
-![Gif de Vegeta](https://gist.githubusercontent.com/Fabian-Martinez-Rincon/47a7edee2ca4ed8eb69e00d6037eff72/raw/vegeta.gif)
+
+![Gif de separação](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)v
 ---
 
 <h1 align="center">💫 Sobre mim</h1>
