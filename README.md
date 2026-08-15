@@ -100,23 +100,23 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
 
 # 📊 GitHub Stats     
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k1hunter666&theme=dark&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k1hunter666&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k1hunter666&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Renato-Canedo&theme=dark&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k1hunter666&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
 </div>
 
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/k1hunter666/k1hunter666/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/k1hunter666/k1hunter666/output/github-contribution-grid-snake.svg" width="80%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake-dark.svg">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Renato-Canedo/Renato-Canedo/output/github-contribution-grid-snake.svg" width="80%">
   </picture>
 
   <br><br>
