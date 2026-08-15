@@ -99,32 +99,31 @@ Meu objetivo é me tornar **Especialista em Cibersegurança,** contribuindo para
   </a>
 </p>
 
-# 📊 GitHub Stats     
-<h1 align="center">📊 GitHub Stats</h1>
-
 <div align="center">
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Renato-Canedo&show_icons=true&theme=dark&hide_border=false"
-    alt="GitHub Stats"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false">
 
   <br><br>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renato-Canedo&layout=compact&theme=dark&hide_border=false"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=maidenzinho&theme=dark&hide_border=false">
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maidenzinho&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
 </div>
 
-<br>
+---
+
+# 📈 Atividade no GitHub
 
 <div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Renato-Canedo&theme=react-dark">
+
 </div>
 
+---
 # 🐍 Snake e PAC-MAN
 <div align="center">
 
